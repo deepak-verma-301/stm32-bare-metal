@@ -1,1 +1,2 @@
-stm32_bare_metal/linker_and_startup
+stm32-bareMetal/linker_and_startup/stm32f407xx.ld
+stm32-bareMetal/linker_and_startup/stm32f407xx.s
